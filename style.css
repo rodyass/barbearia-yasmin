@@ -10,10 +10,25 @@
   text-align: center;
 }
 
+.principal{
+  background-color: #CCCCCC;
+  padding: 30px;
+}
+
 p{
   text-align: center;
 }
-
 #missao{
   font-size: 28px;
 }
+ul{
+  display: inline-block;
+  vertical-align: top;
+  width: 20%;
+  margin-right: 15%;
+}
+.imagem-beneficios{
+  width: 50%;
+}
+
+
