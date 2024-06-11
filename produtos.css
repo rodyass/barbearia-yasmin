@@ -66,6 +66,18 @@ width: 940px;
   padding: 30px 20px;
 }  
 
+.produtos li:hover{
+  border-color: #C78C19;
+}
+
+.produtos li:active{
+  border-color: #088C19;
+}
+
+.produtos li:hover h2{
+  font-size: 34px;
+}
+
 footer{
   background: url("bg.jpeg");
   text-align: center;
